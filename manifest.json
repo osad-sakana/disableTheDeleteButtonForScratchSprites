@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Disable the Delete Button for Scratch Sprites",
+  "version": "1.0",
+  "description": "This extension disables the delete button for Scratch sprites.",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://scratch.mit.edu/projects/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
