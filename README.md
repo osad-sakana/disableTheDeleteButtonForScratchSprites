@@ -1,3 +1,5 @@
+追記: 公式の機能でスプライト削除ボタンを押した時に確認が出るようになったのでこの拡張機能は不要になりました……
+
 # Disable the Delete Button for Scratch Sprites | Scratchのスプライトの削除ボタンを無効化にするGoogle Chrome拡張機能
 
 ![これ](./readme_assets/image-1.png)
